@@ -190,6 +190,13 @@ padding-left:10px;
 padding-right: 10px;}
 }
 
+section.button {
+  margin-left:3px;
+	position: fixed;
+	float: left;
+	display: block;
+}
+
 
 
 /********** Extra Large devices only excess 1200px **********/
