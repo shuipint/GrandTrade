@@ -187,15 +187,10 @@ padding-left:10px;
  img.buttons {;
   float:left;
   padding-left: 0;
-padding-right: 10px;}
+padding-right: 5px;}
 }
 
-section.button {
-  margin-left:3px;
-	position: fixed;
-	float: left;
-	display: block;
-}
+
 
 
 
