@@ -188,8 +188,12 @@ padding-left:10px;
   float:left;
   padding-left: 0;
 padding-right: 5px;}
-}
 
+
+section.button {
+	margin-left:0;
+}
+}
 
 
 
