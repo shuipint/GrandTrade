@@ -8,9 +8,12 @@ div.info{padding-left: 10px;
 }
 
 
+
 .smaller{font-size:-2em;}
 
-a {text-decoration: none;}
+a {text-decoration: none;
+letter-spacing: 1px;
+font-size: -2em;}
 a:link{color:#784E32}
 a:visited{grey}
 a:hover{color:#C1BBB1}
