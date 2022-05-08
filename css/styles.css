@@ -7,7 +7,16 @@ div.info{padding-left: 10px;
 
 }
 
-.smaller{font-size:2em;}
+
+img {pointer-events: none;} /* prevent user to save image */
+
+.smaller{font-size:-2em;}
+
+a {text-decoration: none;}
+a:link{color:#784E32}
+a:visited{grey}
+a:hover{color:#C1BBB1}
+a:active{color:#784E32}
 
 p#hi {
   color: white;
@@ -177,8 +186,7 @@ display: table;
 	height:auto;
 }
 
-a {color: rgb(204, 102, 0);
-  text-decoration: none;}
+
 
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
